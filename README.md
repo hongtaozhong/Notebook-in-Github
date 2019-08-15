@@ -12,3 +12,6 @@ Cantera Workshop @NCM 2019
 
 # Ubuntu Load Google Drive
 google-drive-ocamlfuse ~/google-drive
+
+# Jupter Openning
+jupyter notebook --notebook-dir="****"
